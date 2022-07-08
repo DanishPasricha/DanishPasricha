@@ -24,7 +24,7 @@ Relevant Coursework: Data Structure, Algorithms, Object-Oriented Programming
 
 💡 Skills:-
 
-💻   Python Java C++ SPSS (Statistics)
+💻   Python Java C++ SPSS
 🌐   HTML5 CSS JavaScript Node.js Python
-⚙️   Git GitHub 
+⚙️   Git GitHub Android Studio
 🔧   Visual Studio Code RStudio Eclipse
