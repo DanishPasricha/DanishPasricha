@@ -7,24 +7,30 @@ My areas of interest are Cloud Computing,Software Development, Mobile Computing,
 🎓   Pursuing a Masters Degree in Computer Science at Arizona State University.
 🌱   Learning more about Cloud Computing, Mobile Computing and Web Technologies.
 📫   MAIL:- dpasrich@asu.edu
-🧠 Let's talk about my profile.
+
+
+🧠 Profile:-
 
 Dynamic and creative technophile, having hands-on experience in producing robust code and testing processes.
 Hands-on involvement in Java, Python, Machine Learning , Mobile Computing and Data Visualization
 Effective interpersonal communication, team development skills and the competence to interact with cross-functional groups to accomplish objectives and meet critical deadlines in an Agile environment.
-🎓 Let's Talk about my qualifications.
+
+🎓 Qualifications:-
 
 Master of Science in Computer Science       
 Arizona State University, Tempe, AZ       
 Relevant Coursework:  Mobile Computing, Data Visualization ,Knowlege Representation ,Data Mining,Operating Systems, Multimedia Information Systems
 
-Bachelor of Engineering in Instrumentation and Control Engineering       
+B.Tech in Instrumentation and Control Engineering       
 Dr. B.R Ambedkar National Institute of Technology, Jalandhar, India       
 Relevant Coursework: Data Structure, Algorithms, Object-Oriented Programming
 
 💡 Skills:-
 
-💻   Python Java C++ SPSS
+💻   Python Java C++ Matlab SPSS
+
 🌐   HTML5 CSS JavaScript Node.js Python
+
 ⚙️   Git GitHub Android Studio
+
 🔧   Visual Studio Code RStudio Eclipse
