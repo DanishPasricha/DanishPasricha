@@ -6,7 +6,7 @@ My areas of interest are Cloud Computing,Software Development, Mobile Computing,
 🤔   Exploring new technologies and developing software solutions and quick hacks.
 🎓   Pursuing a Masters Degree in Computer Science at Arizona State University.
 🌱   Learning more about Cloud Computing, Mobile Computing and Web Technologies.
-📫   How to reach me: Mail me at schine@asu.edu (mailto:dpasrich@asu.edu)
+📫   MAIL:- dpasrich@asu.edu
 🧠 Let's talk about my profile.
 
 Dynamic and creative technophile, having hands-on experience in producing robust code and testing processes.
